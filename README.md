@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sameh-portfolio.netlify.app](https://sameh-portfolio.netlify.app)
 
-- 💬 Ask me about **Html , CSS , Bootstrap , SASS , Javascript ,json , Vue.js , ajax , Github&Git**
+- 💬 Ask me about **Html , CSS , Bootstrap , SASS , Javascript ,json , Vue.js , ajax , Github&Git , React , Next , Nuxt , APi **
 
 - 📫 How to reach me **asameh.web@gmail.com**
 
