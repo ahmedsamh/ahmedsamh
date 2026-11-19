@@ -2,8 +2,8 @@
 <h3 align="center">Software Engineer | Full-Stack Developer from Cairo, Egypt</h3>
 
 <p align="center">
-  <a href="https://sameh-new-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sameh--new--portfolio.netlify.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://portfolio-r5vlbgh63-ahmeds-projects-67a02460.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Vercel-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-sameh-b8275737a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Sameh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -22,7 +22,7 @@ Software Engineer and Full-Stack Developer with professional experience building
 - 🏢 Currently working as a **Full-Stack Developer at Codgoo** *(Mar 2025 – Present)*
 - 🚀 Building production platforms across **Real Estate ERP (`Builder ERP` / `Diaark`), E-Commerce (`Warifa`, `Ecomus`), SaaS & Event ERP (`Zaffa Tech`), Corporate Investor Portals (`Zemam Capital`), and Cooperative Systems (`Tawuniya`)**
 - 🎓 **B.Sc. in Computers and Information** — Assiut University *(GPA: 3.14)*
-- 🌐 Portfolio & Case Studies: **[https://sameh-new-portfolio.netlify.app](https://sameh-new-portfolio.netlify.app)**
+- 🌐 Portfolio & Case Studies: **[https://portfolio-r5vlbgh63-ahmeds-projects-67a02460.vercel.app/](https://portfolio-r5vlbgh63-ahmeds-projects-67a02460.vercel.app/)**
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, Node.js, Express.js, RESTful APIs, JWT Auth, and MongoDB**
 - 📫 Reach me at **[asameh.web@gmail.com](mailto:asameh.web@gmail.com)** | **+20 1013365784**
 
